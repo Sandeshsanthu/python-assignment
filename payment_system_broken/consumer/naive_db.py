@@ -1,0 +1,1 @@
+# SQLite state tracking demonstrating data corruption
